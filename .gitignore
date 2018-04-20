@@ -1,0 +1,7 @@
+train/
+test/
+*.csv
+*.zip
+*.csv.zip
+*.json
+*.pkl
