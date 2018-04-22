@@ -1,3 +1,6 @@
+train-original/
+test-original/
+tensorboard/
 train/
 test/
 *.csv
