@@ -8,3 +8,4 @@ test/
 *.csv.zip
 *.json
 *.pkl
+*.csv
